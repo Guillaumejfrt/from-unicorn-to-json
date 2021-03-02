@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "id": 42,
+            "name": "Alain Turing",
+            "birth": "1912-06-23",
+            "known_work": [
+                "Cryptanalysis of the Enigma",
+                "Turing's proof",
+                "Turing machine",
+                "Turing test", 
+                "Unorganised machine",
+                "Turing pattern", 
+                "Turing reduction", 
+                "The Chemical Basis of Morphogenesis"
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Ada Lovelace"
+        },
+        true
+    ] 
+}
